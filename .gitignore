@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
+CNN-breast-cancer/BreakHis data/
+data/
 __pycache__/
 *.py[cod]
 *$py.class
